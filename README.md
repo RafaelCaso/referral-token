@@ -33,7 +33,7 @@ Finally, spin up frontend by running
 yarn start
 ```
 
-You should now be able to go to localhost:3000 and see the project. Click on "debug" tab to interact with smart contract
+You should now be able to go to localhost:3000 and see the project. Click on "debug" tab to interact with smart contract and click on "Referrals" to see referrals (surprise surprise) and the rewards collected for referrals.
 
 > [!TIP]
 > To make testing easier, go to Referral.sol and find the constructor. Replace Ownable(msg.sender) with Ownable(yourWalletAddress)
