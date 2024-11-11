@@ -35,4 +35,5 @@ yarn start
 
 You should now be able to go to localhost:3000 and see the project. Click on "debug" tab to interact with smart contract
 
-**_NOTE: To make testing easier, go to Referral.sol and find the constructor. Replace Ownable(msg.sender) with Ownable(yourWalletAddress) _**
+> [!TIP]
+> NOTE: To make testing easier, go to Referral.sol and find the constructor. Replace Ownable(msg.sender) with Ownable(yourWalletAddress)
